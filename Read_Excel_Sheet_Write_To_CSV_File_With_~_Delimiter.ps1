@@ -85,3 +85,7 @@ $finalContent = $header + "`n" + ($content -join "`n")
 $finalContent | Set-Content $csvFile -Force
 
 }
+#--------------------------------------------------------------------------------------------------
+# Open Task Manager and End Excel Task when done                                                  -
+$ Tried Excel.Quit but it still wouldn't end the task                                             -
+#--------------------------------------------------------------------------------------------------
