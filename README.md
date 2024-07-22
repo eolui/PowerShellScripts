@@ -10,6 +10,7 @@ This project serves as a personal archive of PowerShell scripts I've written whi
 
 - Files Organizer
 - Find and Relocate Files Older Than X Days
+- Translate Txt and Excel files to CSV with ~ as delimiter
 
 ## Usage
 
